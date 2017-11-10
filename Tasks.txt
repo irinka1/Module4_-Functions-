@@ -1,0 +1,47 @@
+Exercise 1
+
+Write a function that counts in the console before the X number.
+Arguments of the function: the number X
+
+For example, X = 5.
+Output of the program:
+1
+2
+3
+4
+5
+Exercise 2
+
+Write the function drawRectangle which draws a rectangle from the symbols '+'
+Function arguments: the width of the rectangle in the symbols, the height of the rectangle in the symbols
+
+For example 3 by 2
+Output of the program:
++ + +
++ + +
+
+Exercise 3
+
+Overload the function drawRectangle (task 2) in such a way that it can accept only 1 parameter (the width of a square) and draw a square with equal sides
+
+For example 2
+Output of the program:
++ +
++ +
+
+For example 3
+Output of the program:
++ + +
++ + +
++ + +
+
+Exercise 4
+
+Write the getMax function, which takes two arguments as numbers. And returns the maximum of the two.
+Also, you need to overload this function to work with different numeric variable types (int, float)
+Activity 5
+
+Solve problem 1, without using cycles. Using recursion.
+Activity 6
+
+Solve problem 2, without using cycles. Using recursion.
