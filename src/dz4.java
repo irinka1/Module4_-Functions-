@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/*Write a function that counts in the console before the X number.
+/*Write a function that counts  in the console numbers before the X number.
 Arguments of the function: the number X
 
 For example, X = 5.
